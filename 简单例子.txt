@@ -1,0 +1,3 @@
+ILog4zManager::getInstance()->start();//启动日志
+LOGFMTD("输出");//输出 其他例子请看源码
+ILog4zManager::getInstance()->stop();//关闭
